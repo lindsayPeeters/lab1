@@ -7,7 +7,7 @@
             - werk met isset() of empty() om de foto soms wel en soms niet af te drukken
 
 
-        todo3: werk met een constant DISTANCE waarmee je kan instellen wat de maximale afstand is om checkins voor te tonen
+        todo2: werk met een constant DISTANCE waarmee je kan instellen wat de maximale afstand is om checkins voor te tonen
             - je zal in je array een extra stukje data moeten bijvoegen om deze afstand mee te betrekken in je checkins
 
     */
@@ -21,6 +21,8 @@
     <title>Swarm App</title>
 </head>
 <body>
-    <?php // todo2 : lus over je checkins en print deze visueel af zoals op de screenshots/screenshot1.png?>
+    <?php // todo3 : lus over je checkins en print deze visueel af zoals op de screenshots/screenshot1.png?>
+
+    <?php // todo4 : zorg dat je header en footer opgehaald wordt vanuit footer.inc.php en header.inc.php zodat je deze kan hergebruiken op meerdere schermen?>
 </body>
 </html>
