@@ -19,6 +19,8 @@
         array( "username" => "Jesse", "comment" => "The Mill", "city" => "San Francisco, CA" , "image" => "" , "userimage" => "../images/userImage1.jpg"),
         array( "username" => "Matej", "comment" => "MassVantures", "city" => "Prague, Czech Republic" , "image" => "" , "userimage" => "../images/userImage5.jpg")
       );
+    include_once("header.inc.php");
+    include_once("footer.inc.php");
 
 ?><!DOCTYPE html>
 <html lang="en">
