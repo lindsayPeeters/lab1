@@ -11,6 +11,14 @@
             - je zal in je array een extra stukje data moeten bijvoegen om deze afstand mee te betrekken in je checkins
 
     */
+    $users = array(
+        array( "username" => "Jesse", "comment" => "Assembly 3.0", "city" => "San Francisco, CA" , "image" => "", "userimage" => "../images/userImage1.jpg"),
+        array( "username" => "Michal", "comment" => "Voxer", "city" => "San Francisco, CA" , "image" => "", "userimage" => "../images/userImage2.jpg" ),
+        array( "username" => "Petr", "comment" => "ROXY/NoD", "city" => "Prague, Czech Republic" , "image" => "", "userimage" => "../images/userImage3.jpg" ),
+        array( "username" => "Jaroslav", "comment" => "Vrno hlavni nadrazi", "city" => "Brno, Czech Republic" , "image" => "" , "userimage" => "../images/userImage4.jpg"),
+        array( "username" => "Jesse", "comment" => "The Mill", "city" => "San Francisco, CA" , "image" => "" , "userimage" => "../images/userImage1.jpg"),
+        array( "username" => "Matej", "comment" => "MassVantures", "city" => "Prague, Czech Republic" , "image" => "" , "userimage" => "../images/userImage5.jpg")
+      );
 
 ?><!DOCTYPE html>
 <html lang="en">
